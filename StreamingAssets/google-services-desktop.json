@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "142768386423",
+    "firebase_url": "https://barter-e30f7.firebaseio.com",
+    "project_id": "barter-e30f7",
+    "storage_bucket": "barter-e30f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142768386423:android:91c800a6fb28f75776b172",
+        "android_client_info": {
+          "package_name": "com.barter.barter_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142768386423-2aki1h91pnurhhec4d9bq4c9dkm5u4dm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyv0d5ZJ0TmmRg_Z_EK4KDgEdkrYkibuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142768386423-2aki1h91pnurhhec4d9bq4c9dkm5u4dm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "142768386423-6dhis1v7vipcbfdappr4n1smg3vqhntb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.barter.iosbarter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
